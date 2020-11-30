@@ -1,3 +1,3 @@
-# Awak-Investment-chart
+# Mirinio-Investment-chart
 
 create tailored charts which reads my local csvs. 
